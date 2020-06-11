@@ -4,6 +4,10 @@
 - [Magiply](./magiply-privacy-policy.md)
 - [Daily Luck](./dailyluck-privacy-policy.md)
 
+### Support
+
+[Support Page](./support.md)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wanis-corp/wanis-corp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
