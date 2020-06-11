@@ -1,8 +1,8 @@
 ## Apps
 
-- [Live Tracker()
-- [Daily Luck]()
-- [Magiply]()
+- [Live Tracker](./livetracker-privacy-policy.md)
+- [Magiply](./magiply-privacy-policy.md)
+- [Daily Luck](./dailyluck-privacy-policy.md)
 
 ## Welcome to GitHub Pages
 
