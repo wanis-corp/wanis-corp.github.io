@@ -1,3 +1,9 @@
+## Apps
+
+- [Live Tracker()
+- [Daily Luck]()
+- [Magiply]()
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wanis-corp/wanis-corp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
